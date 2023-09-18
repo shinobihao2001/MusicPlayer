@@ -1,0 +1,22 @@
+KHi value = NAN thì khi set value cho thẻ input của progress bar
+nó nhảy ra giữa 
+
+khi viết :
+  nextBtn.onclick = _this.nextSong;
+
+thì từ khóa this trong nextsong không thể hiểu đc
+
+phải viết
+
+nextBtn.onclick = function () {
+    _this.nextSong();
+  };
+  thì nó mới hiểu đc :V
+
+
+  phương thức closet() sẻ trả về cái node bắt đầu từ node đc click vào tới tổ tiên
+  gần nhất giống vs cái đc truyền vào trong ngoặc
+
+
+  Khi 1 node đc click thì toàn bộ các node con của nó đều sẽ đc nhận cái sự kiện
+  truyền xuống đó

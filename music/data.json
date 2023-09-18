@@ -1,0 +1,50 @@
+[
+  {
+    "name": "One One",
+    "singer": "T-ara",
+    "artwork": "./music/albumCover.jpg",
+    "url": "./music/01 - 티아라 - One _ One.flac"
+  },
+  {
+    "name": "티아라 - 처음처럼",
+    "singer": "T-ara",
+    "artwork": "./music/albumCover.jpg",
+    "url": "./music/02 - 티아라 - 처음처럼 - 타이틀곡.flac"
+  },
+  {
+    "name": "Bo Peep Bo Peep",
+    "singer": "T-ara",
+    "artwork": "./music/albumCover.jpg",
+    "url": "./music/03 - 티아라 - Bo Peep Bo Peep - 타이틀곡.flac"
+  },
+  {
+    "name": "Tic Tic Toc",
+    "singer": "T-ara",
+    "artwork": "./music/albumCover.jpg",
+    "url": "./music/04 - 티아라 - Tic Tic Toc.flac"
+  },
+  {
+    "name": "Bye Bye",
+    "singer": "T-ara",
+    "artwork": "./music/albumCover.jpg",
+    "url": "./music/05 - 티아라 - Bye Bye.flac"
+  },
+  {
+    "name": "Apple Is A",
+    "singer": "T-ara",
+    "artwork": "./music/albumCover.jpg",
+    "url": "./music/06 - 티아라 - Apple Is A.flac"
+  },
+  {
+    "name": "Falling U",
+    "singer": "T-ara",
+    "artwork": "./music/albumCover.jpg",
+    "url": "./music/07 - 티아라 - Falling U.flac"
+  },
+  {
+    "name": "T.T.L(Time To Love)",
+    "singer": "T-ara",
+    "artwork": "./music/albumCover.jpg",
+    "url": "./music/10 - 티아라 - T.T.L(Time To Love).flac"
+  }
+]
